@@ -1,1 +1,1 @@
-# private-wiki
+# wiki

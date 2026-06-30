@@ -41,10 +41,14 @@ The main problem statement captured in the repo is:
         │   ├── Problem 6.md
         │   └── imgs/
         │       └── IMG_1274.jpg
-        └── Group Session 27-05-26/
-            ├── Group 1 - MVP Definition.md
-            ├── Group 3 - Risk Management and Safeguarding.md
-            └── Group 4 - Ways of Working.md
+        ├── Group Session 27-05-26/
+        │   ├── Group 1 - MVP Definition.md
+        │   ├── Group 2 - Data and Integration.md
+        │   ├── Group 3 - Risk Management and Safeguarding.md
+        │   └── Group 4 - Ways of Working.md
+        └── Group Session 24-06-26/
+            ├── Mobile Wireframes.md
+            └── Recording Interactions in the Field.md
 ```
 
 ## Recommended reading order
@@ -59,19 +63,27 @@ If you are new to the repo, start here:
 
    This describes the emerging MVP direction: a single-page, web-based client information view that works on phones, laptops, and desktops.
 
-3. `Simon on the streets/User Research/Group Session 27-05-26/Group 3 - Risk Management and Safeguarding.md`
+3. `Simon on the streets/User Research/Group Session 24-06-26/Recording Interactions in the Field.md`
+
+   This captures the latest thinking on low-friction, mobile-first recording in the field, including incremental profile building, must-have fields, location capture, and AI-assisted or conversational input options.
+
+4. `Simon on the streets/User Research/Group Session 24-06-26/Mobile Wireframes.md`
+
+   This captures the latest mobile wireframe notes for homepage case access, case-record priorities, interaction history, and profile search.
+
+5. `Simon on the streets/User Research/Group Session 27-05-26/Group 3 - Risk Management and Safeguarding.md`
 
    This captures safeguarding, worker safety, client risk, records management, and the need to handle complex human situations without over-formalising frontline work.
 
-4. `Simon on the streets/User Research/Group Session 27-05-26/Group 4 - Ways of Working.md`
+6. `Simon on the streets/User Research/Group Session 27-05-26/Group 4 - Ways of Working.md`
 
    This is an early working charter for the volunteer/community project. It covers onboarding, status updates, task sizing, tooling, ownership, and collaboration behaviours.
 
-5. `Simon on the streets/User Research/Group Session 30-04-26/Problem *.md`
+7. `Simon on the streets/User Research/Group Session 30-04-26/Problem *.md`
 
    These are raw workshop notes for the six sub-problems. Read them when you need detail behind a specific problem area.
 
-6. `Simon on the streets/User Research/Mastek4Good_Research_Presentation.pdf`
+8. `Simon on the streets/User Research/Mastek4Good_Research_Presentation.pdf`
 
    This is the research presentation artifact. Use it alongside the Markdown notes for wider context.
 
@@ -170,4 +182,3 @@ For new assets, place images or supporting files close to the note that referenc
 ## Current state
 
 As of the latest notes in this repo, the project is in discovery and MVP definition. The repository contains research outputs and early product direction, not an implemented product.
-

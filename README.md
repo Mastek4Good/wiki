@@ -47,6 +47,7 @@ The main problem statement captured in the repo is:
         │   ├── Group 3 - Risk Management and Safeguarding.md
         │   └── Group 4 - Ways of Working.md
         └── Group Session 24-06-26/
+            ├── Actions, Outcomes and Reporting.md
             ├── Mobile Wireframes.md
             └── Recording Interactions in the Field.md
 ```
@@ -71,19 +72,23 @@ If you are new to the repo, start here:
 
    This captures the latest mobile wireframe notes for homepage case access, case-record priorities, interaction history, and profile search.
 
-5. `Simon on the streets/User Research/Group Session 27-05-26/Group 3 - Risk Management and Safeguarding.md`
+5. `Simon on the streets/User Research/Group Session 24-06-26/Actions, Outcomes and Reporting.md`
+
+   This captures the latest thinking on post-interaction capture, action and outcome recording, consent-sensitive audio or text notes, and review-before-submit workflows.
+
+6. `Simon on the streets/User Research/Group Session 27-05-26/Group 3 - Risk Management and Safeguarding.md`
 
    This captures safeguarding, worker safety, client risk, records management, and the need to handle complex human situations without over-formalising frontline work.
 
-6. `Simon on the streets/User Research/Group Session 27-05-26/Group 4 - Ways of Working.md`
+7. `Simon on the streets/User Research/Group Session 27-05-26/Group 4 - Ways of Working.md`
 
    This is an early working charter for the volunteer/community project. It covers onboarding, status updates, task sizing, tooling, ownership, and collaboration behaviours.
 
-7. `Simon on the streets/User Research/Group Session 30-04-26/Problem *.md`
+8. `Simon on the streets/User Research/Group Session 30-04-26/Problem *.md`
 
    These are raw workshop notes for the six sub-problems. Read them when you need detail behind a specific problem area.
 
-8. `Simon on the streets/User Research/Mastek4Good_Research_Presentation.pdf`
+9. `Simon on the streets/User Research/Mastek4Good_Research_Presentation.pdf`
 
    This is the research presentation artifact. Use it alongside the Markdown notes for wider context.
 
